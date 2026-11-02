@@ -103,6 +103,7 @@ Full details are on the [pricing page](https://asistentiai.com/en/pricing).
 | Live demo | [/en/demo](https://asistentiai.com/en/demo) | [/demo](https://asistentiai.com/demo) | [/it/demo](https://asistentiai.com/it/demo) |
 | FAQ | [/en/faq](https://asistentiai.com/en/faq) | [/pyetje](https://asistentiai.com/pyetje) | [/it/domande-frequenti](https://asistentiai.com/it/domande-frequenti) |
 | Compared with the alternatives | [/en/compare](https://asistentiai.com/en/compare) | [/krahasim](https://asistentiai.com/krahasim) | [/it/confronto](https://asistentiai.com/it/confronto) |
+| Manychat alternative in Albanian | [/en/manychat-alternative](https://asistentiai.com/en/manychat-alternative) | [/alternativa-manychat](https://asistentiai.com/alternativa-manychat) | [/it/alternativa-manychat](https://asistentiai.com/it/alternativa-manychat) |
 | Integrations (Connector Spec) | [/en/integrations](https://asistentiai.com/en/integrations) | [/integrations](https://asistentiai.com/integrations) | [/it/integrations](https://asistentiai.com/it/integrations) |
 | Free trial | [/en/signup](https://asistentiai.com/en/signup) | [/regjistrohu](https://asistentiai.com/regjistrohu) | [/it/registrati](https://asistentiai.com/it/registrati) |
 | About | [/en/about](https://asistentiai.com/en/about) | [/rreth-nesh](https://asistentiai.com/rreth-nesh) | [/it/chi-siamo](https://asistentiai.com/it/chi-siamo) |
@@ -125,13 +126,13 @@ Full details are on the [pricing page](https://asistentiai.com/en/pricing).
 
 AsistentiAI është platformë shqiptare që i jep çdo biznesi një agjent me inteligjencë artificiale (chatbot AI në shqip) për shërbimin e klientit. Agjenti u përgjigjet klientëve 24/7, brenda sekondave, në faqen e internetit, Instagram, Messenger dhe WhatsApp: në shqip, edhe kur klienti shkruan pa ë e ç, si dhe në anglisht, italisht ose në gjuhën e klientit. Mëson nga faqja, katalogu dhe dokumentet e biznesit, nuk shpik çmime, stok apo politika, dhe kur s'është i sigurt ia kalon bisedën ekipit me një draft përgjigjeje të gatshëm. Planet janë $120 në muaj (Starter), $220 (Professional, me WhatsApp) dhe $550 (Business), në dollarë dhe pa TVSH. Prova falas jep 50 përgjigje të agjentit, pa kartë krediti: llogarinë e provës e hap ekipi ynë brenda ditës, pasi ta kërkoni te [asistentiai.com/regjistrohu](https://asistentiai.com/regjistrohu).
 
-Më shumë: [Chatbot AI në shqip](https://asistentiai.com/chatbot-ne-shqip) · [Çmimet](https://asistentiai.com/cmimet) · [Demo live](https://asistentiai.com/demo) · [Pyetje dhe përgjigje](https://asistentiai.com/pyetje)
+Më shumë: [Chatbot AI në shqip](https://asistentiai.com/chatbot-ne-shqip) · [Çmimet](https://asistentiai.com/cmimet) · [Demo live](https://asistentiai.com/demo) · [Pyetje dhe përgjigje](https://asistentiai.com/pyetje) · [Alternativa e Manychat](https://asistentiai.com/alternativa-manychat)
 
 ## Italiano
 
 AsistentiAI è una piattaforma albanese che dà a ogni azienda un agente di intelligenza artificiale (un chatbot AI in albanese) per il servizio clienti. L'agente risponde ai clienti 24/7, in pochi secondi, su sito, Instagram, Messenger e WhatsApp, in albanese, italiano, inglese o nella lingua del cliente, anche nella stessa conversazione. Impara dal sito, dal catalogo e dai documenti dell'azienda, non inventa prezzi, disponibilità o condizioni e, quando non è sicuro, passa la conversazione al team con una bozza di risposta pronta. I piani costano $120 al mese (Starter), $220 (Professional, con WhatsApp) e $550 (Business), in dollari e IVA esclusa. La prova gratuita offre 50 risposte dell'agente, senza carta di credito: il nostro team apre l'account di prova in giornata, dopo la tua richiesta su [asistentiai.com/it/registrati](https://asistentiai.com/it/registrati).
 
-Di più: [Chatbot AI in albanese](https://asistentiai.com/it/chatbot-albanese) · [Prezzi](https://asistentiai.com/it/prezzi) · [Demo dal vivo](https://asistentiai.com/it/demo) · [Domande frequenti](https://asistentiai.com/it/domande-frequenti)
+Di più: [Chatbot AI in albanese](https://asistentiai.com/it/chatbot-albanese) · [Prezzi](https://asistentiai.com/it/prezzi) · [Demo dal vivo](https://asistentiai.com/it/demo) · [Domande frequenti](https://asistentiai.com/it/domande-frequenti) · [Alternativa a Manychat](https://asistentiai.com/it/alternativa-manychat)
 
 ---
 
